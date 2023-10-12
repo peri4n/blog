@@ -3,8 +3,8 @@ title: My recent article 2
 author: Sat Naing
 pubDatetime: 2022-06-06T04:06:31Z
 postSlug: my-recent-2
-featured: false
-draft: true
+featured: true
+draft: false
 tags:
   - TypeScript
   - Astro
@@ -14,7 +14,7 @@ description:
   fringilla est
 ---
 
-My experience about developing my first portfolio website and a blog using NextJS and a headless CMS.
+Yada yada yudu yudu
 
 ## Motivation
 
