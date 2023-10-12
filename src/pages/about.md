@@ -1,37 +1,34 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I am Fabian. I am a software developer at [Senec](https://www.senec.de), nerd, hobby gardener, and full-time dad.
 
-![Astro Paper](public/astropaper-og.jpg)
+In a previous life, I was a data scientist working in academia but left when I realized how deeply screwed science is; I never looked back.
+Still, my interests remain in working with large data sets, functional programming, and security. In particular:
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Languages
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- [Rust](https://www.rust-lang.org/)
+- [Haskell](https://www.haskell.org/)
+- [Scala](https://scala-lang.org/)/[Java](https://dev.java)
+- [Typescript](https://www.typescriptlang.org/)
 
-## Features
+## Technologies
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- [Tokio](https://tokio.rs/)
+- [Astro](https://astro.build/)
+- [Nix](https://nixos.org/)
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Certificates
 
-and so much more.
+- AWS Solution Architect (Associate)
 
-## Show your support
+I write about the things that go through my head: the day-to-day problems I face in my job, as well as nerd topics I am interested in.
+I hope this proves to be useful for you and the rest of the internet.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+<div>
+  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+</div>
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+If you want to get in touch try my [email](mailto:contact@satnaing.dev).
