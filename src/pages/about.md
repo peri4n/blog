@@ -1,36 +1,34 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I am Fabian. I am a software developer at [Senec](https://www.senec.de), nerd, hobby gardener, and full-time dad.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+In a previous life, I was a data scientist working in academia but left when I realized how deeply screwed science is; I never looked back.
+Still, my interests remain in working with large data sets, functional programming, and security. In particular:
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Languages
+
+- [Rust](https://www.rust-lang.org/)
+- [Haskell](https://www.haskell.org/)
+- [Scala](https://scala-lang.org/)/[Java](https://dev.java)
+- [Typescript](https://www.typescriptlang.org/)
+
+## Technologies
+
+- [Tokio](https://tokio.rs/)
+- [Astro](https://astro.build/)
+- [Nix](https://nixos.org/)
+
+## Certificates
+
+- AWS Solution Architect (Associate)
+
+I write about the things that go through my head: the day-to-day problems I face in my job, as well as nerd topics I am interested in.
+I hope this proves to be useful for you and the rest of the internet.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+If you want to get in touch try my [email](mailto:contact@satnaing.dev).
