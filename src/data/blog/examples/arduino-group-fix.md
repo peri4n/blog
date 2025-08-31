@@ -3,12 +3,13 @@ title: Fixing Port Permissions for my Arduino
 author: Fabian Bull
 pubDatetime: 2024-01-10T13:23:23Z
 postSlug: arduino-group-fix
-featured: true
+featured: false
 draft: false
 tags:
   - Arduino
   - Linux
   - NixOS
+  - Small Fix
 description: This article describes how to fix a security issue when programming your Arduino.
 ---
 
