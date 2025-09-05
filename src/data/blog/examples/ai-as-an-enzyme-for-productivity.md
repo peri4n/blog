@@ -3,7 +3,7 @@ title: AI as an enzyme for productivity
 author: Fabian Bull
 pubDatetime: 2025-09-01T13:23:23Z
 postSlug: ai-as-an-enzyme-for-productivity
-featured: false
+featured: true
 draft: false
 tags:
   - AI
