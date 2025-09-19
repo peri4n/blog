@@ -3,7 +3,7 @@ title: Why I compete in Project Euler.
 author: Fabian Bull
 pubDatetime: 2025-08-01T13:23:23Z
 postSlug: why-i-compete-in-project-euler
-featured: true
+featured: false
 draft: false
 tags:
   - programming
