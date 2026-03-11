@@ -5,7 +5,7 @@ const DARK = "dark";
 
 // Initial color scheme
 // Can be "light", "dark", or empty string for system's prefers-color-scheme
-const initialColorScheme = "";
+const initialColorScheme = DARK;
 
 function getPreferTheme(): string {
   // get theme data from local storage (user's explicit choice)
@@ -112,3 +112,4 @@ window
     window.theme?.setTheme(themeValue);
     setPreference();
   });
+
