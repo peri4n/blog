@@ -1,8 +1,8 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
-import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
+import IconMastodon from "@/assets/icons/IconMastodon.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -33,9 +33,9 @@ export const SOCIALS: Social[] = [
   },
   {
     name: "Mastodon",
-    href: "https://mastodon.social/@peri4n@fosstodon.org",
+    href: "https://fosstodon.org/@peri4n",
     linkTitle: `Mastodon`,
-    icon: IconBrandX,
+    icon: IconMastodon,
   },
 ];
 

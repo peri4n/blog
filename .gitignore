@@ -36,3 +36,7 @@ pnpm-debug.log*
 
 # nix
 .direnv/
+
+# pagefind
+
+public/pagefind/

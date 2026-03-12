@@ -3,7 +3,7 @@ title: Why all certificates are wrong.
 author: Fabian Bull
 pubDatetime: 2024-12-10T13:23:23Z
 postSlug: why-all-certificates-are-wrong
-featured: true
+featured: false
 draft: true
 tags:
   - Certificates
