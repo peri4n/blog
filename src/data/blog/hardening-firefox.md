@@ -21,11 +21,11 @@ I like to keep Firefox fast, minimal, and private. Here are the settings:
 - `browser.tabs.warnOnClose = false` – no warning on closing multiple tabs
 - `browser.tabs.warnOnOpen = false` – no warning on opening many tabs
 - `browser.ml.chat.enabled = false` – disable ML chat feature
-- `browser.urlbar.suggest.bookmark = false` – don’t suggest bookmarks
+- `browser.urlbar.suggest.bookmark = false` – don't suggest bookmarks
 - `browser.urlbar.suggest.history = true` – suggest from history
-- `browser.urlbar.suggest.openpage = false` – don’t suggest open tabs
-- `browser.urlbar.suggest.pocket = false` – don’t suggest Pocket content
-- `browser.urlbar.suggest.searches = false` – don’t suggest searches
+- `browser.urlbar.suggest.openpage = false` – don't suggest open tabs
+- `browser.urlbar.suggest.pocket = false` – don't suggest Pocket content
+- `browser.urlbar.suggest.searches = false` – don't suggest searches
 - `browser.newtabpage.activity-stream.discoverystream.enabled = false` – disable discovery stream
 - `browser.newtabpage.activity-stream.showSponsored = false` – disable sponsored content
 - `browser.translations.enable = false` – disable built-in translations
@@ -39,6 +39,6 @@ I like to keep Firefox fast, minimal, and private. Here are the settings:
 - `dom.security.https_only_mode = true` – enforce HTTPS-only mode
 - `extensions.pocket.enabled = false` – disable Pocket
 
-These tweaks disable things I don’t need (Pocket, ML chat, sponsored content) while enabling stronger privacy protections (tracking protection, HTTPS-only, anti-fingerprinting).
+These tweaks disable things I don't need (Pocket, ML chat, sponsored content) while enabling stronger privacy protections (tracking protection, HTTPS-only, anti-fingerprinting).
 
 Simple, private, and efficient.

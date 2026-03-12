@@ -13,7 +13,7 @@ tags:
 description: This article introduces my schedule to learn more about the tokio rust crate.
 ---
 
-I want to get more comfortable with [Tokio](https://tokio.rs/), Rust’s async runtime. Learning async Rust can feel intimidating, so I decided to take it step by step.
+I want to get more comfortable with [Tokio](https://tokio.rs/), Rust's async runtime. Learning async Rust can feel intimidating, so I decided to take it step by step.
 
 This is not a universal learning path. It is my personal plan, and I will update the list as I make progress and write dedicated articles for each project.
 
