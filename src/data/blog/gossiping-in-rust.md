@@ -63,7 +63,8 @@ async fn main() {
         .and_then(|s| s.parse::<u32>().ok())
         .unwrap_or(NUM_HOSTS);
 
-    // This channel serves as a simple message bus for all hosts. Each host will subscribe to this channel and filter messages intended for itself.
+    // This channel serves as a simple message bus for all hosts. 
+    // Each host will subscribe to this channel and filter messages intended for itself.
     let (tx, _) = broadcast::channel::<Message>(100000);
 
     let mut handles = Vec::new();
