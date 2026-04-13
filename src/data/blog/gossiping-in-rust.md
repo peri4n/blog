@@ -4,7 +4,7 @@ author: Fabian Bull
 pubDatetime: 2026-03-23
 postSlug: gossiping-in-rust
 featured: true
-draft: false
+draft: true
 tags:
   - programming
   - distributed systems

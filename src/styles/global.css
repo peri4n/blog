@@ -60,3 +60,8 @@ html[data-theme="dark"] {
 :target {
   scroll-margin-block: 1rem;
 }
+
+pre.mermaid {
+  border: 1px solid #ff78c8 !important;
+}
+
