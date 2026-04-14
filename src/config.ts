@@ -6,7 +6,7 @@ export const SITE = {
   title: "fbull.de",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: false,
-  postPerPage: 5,
+  postPerPage: 10,
   postPerIndex: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,

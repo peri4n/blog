@@ -36,8 +36,4 @@ Still, my interests remain in algorithms and data structures, functional program
 I write about the things that go through my head: the day-to-day problems I face in my job, as well as nerd topics I am interested in.
 I hope some of this proves to be useful for you and the rest of the internet.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
 If you want to get in touch try my [email](mailto:contact@fbull.de).
